@@ -1,6 +1,6 @@
 # Engineering Portfolio
 
-A collection of my engineering design work, including AutoCAD drawings, SolidWorks 3D models, and HVAC calculations.
+A collection of my engineering design work, including AutoCAD drawings, SolidWorks 3D models.
 
 ## Contents
 
