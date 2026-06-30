@@ -1,3 +1,4 @@
+<img width="1296" height="741" alt="engineering-part" src="https://github.com/user-attachments/assets/40479dbb-5618-42f5-bacd-c9950502458e" />
 # Engineering Portfolio
 
 A collection of my engineering design work, including AutoCAD drawings, SolidWorks 3D models.
