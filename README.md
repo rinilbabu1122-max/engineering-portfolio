@@ -5,7 +5,7 @@ Forked Clevis-Style Lever
 
 A forked clevis-style lever modelled in SolidWorks and drafted in AutoCAD. This component is commonly used in mechanical linkage assemblies for transferring linear or rotary force through a pivot point — applications include marine control systems, actuator linkages, and structural connectors.
 
-Show Image
+<img width="1296" height="741" alt="engineering-part" src="https://github.com/user-attachments/assets/40479dbb-5618-42f5-bacd-c9950502458e" />
 
 Files
 
